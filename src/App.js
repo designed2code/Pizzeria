@@ -7,12 +7,14 @@ import Contact from './pages/Contact';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     <div className="App">
       <Router>
       <Navbar/>
       <Switch>
+        <Route path="/Pizzeria" exact component={Home}/>
         <Route path="/" exact component={Home}/>
         <Route path="/menu" exact component={Menu}/>
         <Route path="/about" exact component={About}/>

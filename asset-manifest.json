@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Pizzeria/static/css/main.a127c520.chunk.css",
-    "main.js": "/Pizzeria/static/js/main.bae49c79.chunk.js",
-    "main.js.map": "/Pizzeria/static/js/main.bae49c79.chunk.js.map",
+    "main.js": "/Pizzeria/static/js/main.5aea0f21.chunk.js",
+    "main.js.map": "/Pizzeria/static/js/main.5aea0f21.chunk.js.map",
     "runtime-main.js": "/Pizzeria/static/js/runtime-main.c1850311.js",
     "runtime-main.js.map": "/Pizzeria/static/js/runtime-main.c1850311.js.map",
-    "static/js/2.5471ceb9.chunk.js": "/Pizzeria/static/js/2.5471ceb9.chunk.js",
-    "static/js/2.5471ceb9.chunk.js.map": "/Pizzeria/static/js/2.5471ceb9.chunk.js.map",
+    "static/js/2.a53fcdd1.chunk.js": "/Pizzeria/static/js/2.a53fcdd1.chunk.js",
+    "static/js/2.a53fcdd1.chunk.js.map": "/Pizzeria/static/js/2.a53fcdd1.chunk.js.map",
     "static/js/3.10c6ad08.chunk.js": "/Pizzeria/static/js/3.10c6ad08.chunk.js",
     "static/js/3.10c6ad08.chunk.js.map": "/Pizzeria/static/js/3.10c6ad08.chunk.js.map",
     "index.html": "/Pizzeria/index.html",
     "static/css/main.a127c520.chunk.css.map": "/Pizzeria/static/css/main.a127c520.chunk.css.map",
-    "static/js/2.5471ceb9.chunk.js.LICENSE.txt": "/Pizzeria/static/js/2.5471ceb9.chunk.js.LICENSE.txt",
+    "static/js/2.a53fcdd1.chunk.js.LICENSE.txt": "/Pizzeria/static/js/2.a53fcdd1.chunk.js.LICENSE.txt",
     "static/media/DominosSpecial.425951cb.jpg": "/Pizzeria/static/media/DominosSpecial.425951cb.jpg",
     "static/media/expensive.6449ceef.jpg": "/Pizzeria/static/media/expensive.6449ceef.jpg",
     "static/media/margherita.683bc9bb.jpg": "/Pizzeria/static/media/margherita.683bc9bb.jpg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c1850311.js",
-    "static/js/2.5471ceb9.chunk.js",
+    "static/js/2.a53fcdd1.chunk.js",
     "static/css/main.a127c520.chunk.css",
-    "static/js/main.bae49c79.chunk.js"
+    "static/js/main.5aea0f21.chunk.js"
   ]
 }
